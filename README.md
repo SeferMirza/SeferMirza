@@ -1,27 +1,4 @@
 - 👋 Hi, I’m @SeferMirza
-- 👀 I’m interested in AI
-- I am currently coding in the following languages : 
-
-Python
-
-C#
-
-JavaScript
-
-- Technologies I have worked with until today: 
-
-React-Native
-
-Numpy
-
-.NET, EntityFramework
-
-Node.js
-
-Flask
-
-Python
-
 - 📫 How to reach me 
 
 https://www.linkedin.com/in/sefer-mirza-877248179/
