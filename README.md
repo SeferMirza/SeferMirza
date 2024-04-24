@@ -3,7 +3,6 @@
 
 https://www.linkedin.com/in/sefer-mirza-877248179/
 
-https://www.instagram.com/sefermirza/
 
 sefermirza@gmail.com
 
